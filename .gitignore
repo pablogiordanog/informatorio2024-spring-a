@@ -1,0 +1,13 @@
+.DS_Store
+
+info-primera-app/target/
+!info-primera-app/.mvn/wrapper/maven-wrapper.jar
+!info-primera-app/**/src/main/**/target/
+!info-primera-app/**/src/test/**/target/
+
+
+### IntelliJ IDEA ###
+info-primera-app/.idea
+info-primera-app/*.iws
+info-primera-app/*.iml
+info-primera-app/*.ipr
